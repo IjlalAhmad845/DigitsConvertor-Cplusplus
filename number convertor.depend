@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1516286466 source:c:\users\ahmad\desktop\number convertor\main.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+
+1516648449 source:f:\softwares\installed apps\my programs\programs\c++\completed\number convertor\main.cpp
+	<iostream>
+	<windows.h>
+	<math.h>
+
